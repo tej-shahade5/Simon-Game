@@ -1,5 +1,14 @@
-Hello everyone 
-I have created game called simon.
+# Simon Game
+Hello everyone, I have created an interesting game called simon that play by remembering all previous entries of colors. 
+Play and have fun.
+
+# How to get it in your local machine
+1. git clone https://github.com/tej-shahade5/Simon-Game.git
+2. You will download a folder called simon-game.
+3. Find html index file in that folder and double click on it.
+4. Done you will land on game page, play and have fun.
+
+# How to play
 1. Firstly press any key to start. 
 2. It will flash the particular color. You have to click on this color. 
 3. if you click then it again flash another color. 
